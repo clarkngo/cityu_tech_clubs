@@ -31,5 +31,5 @@ ALL PHOTOS WHENEVER THERE'S NEW PICTURES
 
 https://photos.google.com/share/AF1QipMHO2JHdBvUoX3voWCT7q0wdOc3j_c5SkQod--aQkDURVK_7HnW_5zESXQV_MDcXw?key=OHViZnM5alVzQkdLSEJWQi1WMWxsMlNVS3FHSkJB
 
-## Update Sam Chung whenever you upload
+## Update Clark, Kevin and Sam Chung whenever you upload
 Email subject: Photo Uploaded - Invited Talk: Secure Apps October 19, 2018

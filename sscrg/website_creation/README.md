@@ -88,4 +88,4 @@ www.youtube.com
  
 Please follow the tutorial exactly as it is.
  
-After you are done with the tutorial, inform us by sending me & Sam a message.
+After you are done with the tutorial, inform us by sending Clark, Kevin & Sam a message.
