@@ -50,7 +50,7 @@ https://gator4205.hostgator.com:2083/
 
 ### At the right pane, look for "Users"
 
-<img src="/sscrg/images/wp2_dash.png" width="200" height="500"/>
+<img src="/sscrg/images/wp2_dash.png" width="200" height="700"/>
 
 ### Click "Add New"
 
