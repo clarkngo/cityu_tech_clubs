@@ -59,5 +59,6 @@ https://gator4205.hostgator.com:2083/
 ### Populate the fields and click "Add New User"
 
 ### Note: no need to put website
+### Don't forget to select "Administrator"
 
 <img src="/sscrg/images/wp4_user_set.png" width="500" height="500"/>
