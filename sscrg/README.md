@@ -5,7 +5,7 @@ https://gator4205.hostgator.com:2083/
 
 Enter username and password
 
-![](/images/hg1_cpanel.png)
+![](/sscrg/images/hg1_cpanel.png)
 
 ![](/images/hg2_sidebar.png)
 
