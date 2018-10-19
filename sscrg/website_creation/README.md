@@ -3,15 +3,15 @@
 Go to our web hosting control panel:
 https://gator4205.hostgator.com:2083/
 
-Enter username and password
+###### Enter username and password
 
 <img src="/sscrg/images/hg1_cpanel.png" width="200" height="200" />
 
-At the right pane, look for "Website Essentials"
+###### At the right pane, look for "Website Essentials"
 
 <img src="/sscrg/images/hg2_sidebar.png" width="200" height="400"/>
 
-Click:
+###### Click:
 
 <img src="/sscrg/images/hg3_web_ess.png" width="300" height="170"/>
 
