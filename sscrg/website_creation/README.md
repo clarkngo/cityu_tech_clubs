@@ -13,7 +13,7 @@ https://gator4205.hostgator.com:2083/
 
 ### Click:
 
-<img src="/sscrg/images/hg3_web_ess.png" width="300" height="170"/>
+<img src="/sscrg/images/hg3_web_ess.png" width="300" height="120"/>
 
 ### Click "One Click Installs"
 
