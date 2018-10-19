@@ -7,24 +7,24 @@ Enter username and password
 
 ![](/sscrg/images/hg1_cpanel.png)
 
-![](/images/hg2_sidebar.png)
+![](/sscrg/images/hg2_sidebar.png)
 
-![](/images/hg3_web_ess.png)
+![](/sscrg/images/hg3_web_ess.png)
 
-![](/images/hg4_one_click_ins.png)
+![](/sscrg/images/hg4_one_click_ins.png)
 
-![](/images/hg5_wordpress.png)
+![](/sscrg/images/hg5_wordpress.png)
 
-![](/images/hg6_doms_ins.png)
+![](/sscrg/images/hg6_doms_ins.png)
 
-![](/images/hg7_ins_set.png)
+![](/sscrg/images/hg7_ins_set.png)
 
 ![](/images/hg8_ins_com.png)
 
-![](/images/wp1_log_in.png)
+![](/sscrg/images/wp1_log_in.png)
 
-![](/images/wp2_dash.png)
+![](/sscrg/images/wp2_dash.png)
 
-![](/images/wp3_user_new.png)
+![](/sscrg/images/wp3_user_new.png)
 
-![](/images/wp4_user_set.png)
+![](/sscrg/images/wp4_user_set.png)
