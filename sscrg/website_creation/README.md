@@ -72,8 +72,8 @@ Great to hear that! :)
 Please send me your picture for the members page.
  
 User: caifengshun
-Password:
-ChangeThis
+
+Password: ChangeThis
  
 View your website: http://smartandsecurecomputing.org/caifengshun/
  
