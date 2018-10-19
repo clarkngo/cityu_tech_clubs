@@ -19,7 +19,7 @@ Enter username and password
 
 <img src="/sscrg/images/hg7_ins_set.png" width="700" height="200"/>
 
-<img src="/images/hg8_ins_com.png" width="200" height="200"/>
+<img src="/sscrg/images/hg8_ins_com.png" width="200" height="200"/>
 
 <img src="/sscrg/images/wp1_log_in.png" width="200" height="200"/>
 
