@@ -42,6 +42,8 @@ https://gator4205.hostgator.com:2083/
 
 <img src="/sscrg/images/hg8_ins_com.png" width="700" height="400"/>
 
+## Creating a New User
+
 ### Log in with user and password.
 
 <img src="/sscrg/images/wp1_log_in.png" width="200" height="200"/>
