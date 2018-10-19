@@ -15,11 +15,11 @@ https://gator4205.hostgator.com:2083/
 
 <img src="/sscrg/images/hg3_web_ess.png" width="300" height="170"/>
 
-### Click - "One Click Installs"
+### Click "One Click Installs"
 
 <img src="/sscrg/images/hg4_one_click_ins.png" width="300" height="200"/>
 
-### Click - "WordPress"
+### Click "WordPress"
 
 <img src="/sscrg/images/hg5_wordpress.png" width="500" height="200"/>
 
@@ -32,7 +32,7 @@ https://gator4205.hostgator.com:2083/
 ### Populate fields and click "Install"
 
 ### Note: Admin User, First Name, Last Name and Admin Email
-Should be yours (current website administrator).
+### Should be yours (current website administrator).
 
 <img src="/sscrg/images/hg7_ins_set.png" width="700" height="400"/>
 
