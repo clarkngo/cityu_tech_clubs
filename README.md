@@ -44,6 +44,17 @@
 * Ask SiteOps to print a signage for the event and place near the Atrium TV.
 * Promote the Event during class. Ask your professor if you could share for 5 minutes.
 
+#### During the talk
+* Reminder speaker on the day.
+* Ask if presentation can be recorded. If not, ask if can be recorded and for internal use only.
+* Upload video to Youtube (with consent).
+
+#### After the talk
+* Thank the speaker.
+* Accompany speaker until School Lobby.
+* Give business card.
+* Thank them in LinkedIn with a picture and a post. Tag the speaker.
+
 ## Smart and Secure Computing Research Group - https://www.linkedin.com/company/smart-and-secure-computing-research-group/
 ### Setting up
 * Setup a Zoom meeting for video conferencing and recording. You may never know that someone will be presenting a good content.
@@ -62,10 +73,15 @@
 * Get feedback from members.
 
 ### Updating
-* Add photos to Google Photos. This is our photo dump.
+* Update LinkedIn group on notable meetings, presentations, videos.
+
+#### As Website Administrator
+* Create member webpages in WordPress. Send tutorial to new members to follow.
+* Follow-up and check with their website creation progress.
+* Creation of customized webpages for events.
+* Add all photos from events/activities to Google Photos. This is our photo dump.
 * Update SSCRG Website with photos of new events, invited speaker, or sscrg member that hasn't been featured.
 * Notify updates to SSCRG advisor.
-* Update LinkedIn group on notable meetings, presentations, videos.
 
 ## Secure Coding Club - https://www.linkedin.com/company/secure-coding-club/
 ### Collaborate
