@@ -111,3 +111,43 @@
 * Topology and IP address pinging.
 * Update LinkedIn on activities and notable events.
 * Be on the lookout for members that are interested in Network and Security. Accomodate them to look around and hack the Network & Security Lab.
+
+## Graduate TA  - [Webpage](https://smartandsecurecomputing.org/gtac)
+### TA Guidelines
+#### What the TA can do:
+* The TA can only help technical issues of your course exercises, assignments, and virtual labs.
+* The TA is supporting your work, not doing your work on behalf of you.
+
+#### What the TA cannot do:
+* The TA cannot be involved in any grading according to the current City policy.
+* The TA may not resolve all of the issues due to his limited experiences and knowledge.
+
+## Technology Institute Ambassadors - [Webpage](https://smartandsecurecomputing.org/gtac)
+
+### Technology Institute Ambassador Guidelines
+#### Becoming a TI Ambassador / CityU Tech Ambassador
+#### Qualifications
+* Must be a currently enrolled City University of Seattle – Technology Institute or SOM student.
+* Position has at least two academic quarters commitment.
+* Exhibit leadership, initiative, dependability, discipline and enthusiasm.
+* Must love technology
+* Student Ambassadors…
+* Help others through mentoring and outreaching
+* Represent the program to industry, outside organizations, and the community
+* Represent the student body at various events on and off campus
+* Are self-motivated
+* Are positive and crazy optimistic
+* Have a beginner’s mindset
+* Network with people in the technology industry
+* Every month will at least do 2 of the following: talks/workshop/blog/meet-ups/tutorial with any technology stack across multiple fields of study
+* Weekly check-in with other Ambassadors
+* Conduct orientation to new students
+* Welcome students new to technology
+
+#### Perks
+* Builds up your resume
+* Builds leadership and communication skills
+* Broadens career network
+* Real-world experience that will set you apart as a professional in the technology world
+* Access to workshops
+* Ambassador badge (Coming soon)
