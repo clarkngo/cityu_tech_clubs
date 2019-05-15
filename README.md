@@ -28,6 +28,14 @@
 * Message different people so that you don't have to wait for long responders.
 * Tell them our school, locations and tentative day and schedule for invited talk.
 
+#### Getting a Speaker
+* Check for the quarter's available time slots. i.e. Spring 2019 - Tuesdays & Thursdays 5pm to 6pm because of students have 6pm classes.
+* Once contacted thru LinkedIn, email, etc. Make a formal email.
+* Ask for talk title, talk description, speaker name, speaker title, speaker description, speaker picture. If not available, we can do the write up.
+* Sample invited talk flyer:
+
+<img src="/sscrg/images/sample_flyer.png" width="500" height="500"/>
+
 #### Booking and Setting up the Event/Talk
 * Look for available dates in your calendar
 * Assess availability of audience (students participating). This assessment is usually on a per quarter basis.
