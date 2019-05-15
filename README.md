@@ -55,7 +55,7 @@
 * Give business card.
 * Thank them in LinkedIn with a picture and a post. Tag the speaker.
 
-## Smart and Secure Computing Research Group - https://www.linkedin.com/company/smart-and-secure-computing-research-group/
+## Smart and Secure Computing Research Group - [LinkedIn Page](https://www.linkedin.com/company/smart-and-secure-computing-research-group/)
 ### Setting up
 * Setup a Zoom meeting for video conferencing and recording. You may never know that someone will be presenting a good content.
 * Setup a time and room. This is usually setup on a per quarter basis.
@@ -83,7 +83,7 @@
 * Update SSCRG Website with photos of new events, invited speaker, or sscrg member that hasn't been featured.
 * Notify updates to SSCRG advisor.
 
-## [Smart and Secure Study Group](https://www.linkedin.com/company/smart-and-secure-study-group/)
+## Smart and Secure Study Group - [LinkedIn Page](https://www.linkedin.com/company/smart-and-secure-study-group/)
 ### Collaborate
 #### Foster a learning environment
 * Invite beginners and experienced people who are interested to code.
@@ -98,7 +98,7 @@
 * Motivate them to listen to podcasts, do 5-minute read on blogs, watch tech videos, attend meetups.
 * Update LinkedIn on activities and notable events.
 
-## [Network and Security Lab](https://www.linkedin.com/company/network-and-security-lab/)
+## Network and Security Lab - [LinkedIn Page](https://www.linkedin.com/company/network-and-security-lab/)
 ### Setup
 * Topology and IP address pinging.
 * Update LinkedIn on activities and notable events.
