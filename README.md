@@ -1,5 +1,5 @@
 # Document for responsibilities for each CityU Tech Club
-## CityU Cybersecurity Club - https://www.linkedin.com/company/cityu-cybersecurity-club/
+## [CityU Cybersecurity Club](https://www.linkedin.com/company/cityu-cybersecurity-club/)
 
 ### Looking for invited speakers
 #### Make meaningful connections
@@ -83,7 +83,7 @@
 * Update SSCRG Website with photos of new events, invited speaker, or sscrg member that hasn't been featured.
 * Notify updates to SSCRG advisor.
 
-## Secure Coding Club - https://www.linkedin.com/company/secure-coding-club/
+## [Smart and Secure Study Group](https://www.linkedin.com/company/smart-and-secure-study-group/)
 ### Collaborate
 #### Foster a learning environment
 * Invite beginners and experienced people who are interested to code.
@@ -98,7 +98,7 @@
 * Motivate them to listen to podcasts, do 5-minute read on blogs, watch tech videos, attend meetups.
 * Update LinkedIn on activities and notable events.
 
-## Network and Security Lab - https://www.linkedin.com/company/network-and-security-lab/
+## [Network and Security Lab](https://www.linkedin.com/company/network-and-security-lab/)
 ### Setup
 * Topology and IP address pinging.
 * Update LinkedIn on activities and notable events.
