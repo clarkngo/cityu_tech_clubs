@@ -1,5 +1,5 @@
 # Document for responsibilities for each CityU Tech Club
-## [CityU Cybersecurity Club](https://www.linkedin.com/company/cityu-cybersecurity-club/)
+## CityU Cybersecurity Club - [LinkedIn Page](https://www.linkedin.com/company/cityu-cybersecurity-club/)
 
 ### Looking for invited speakers
 #### Make meaningful connections
