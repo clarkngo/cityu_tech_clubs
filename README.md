@@ -34,7 +34,7 @@
 * Ask for talk title, talk description, speaker name, speaker title, speaker description, speaker picture. If not available, we can do the write up.
 * Sample invited talk flyer:
 
-<img src="/sscrg/images/sample_flyer.png" width="500" height="500"/>
+<img src="/sscrg/images/sample_flyer.png" width="400" height="500"/>
 
 #### Booking and Setting up the Event/Talk
 * Look for available dates in your calendar
